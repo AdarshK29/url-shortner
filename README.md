@@ -1,4 +1,4 @@
-# url-shortner
+# Shawty
 It is a basic URL shortning application made using MONGOOSE , EXPRESSJS, SHORTID, and EJS,  which stores the shortened url into local storage of the user.
 
 
